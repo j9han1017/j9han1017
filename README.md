@@ -17,19 +17,9 @@ Actualmente, me encuentro inmerso en el apasionante mundo de la tecnología grac
 
 Como aprendiz Full Stack, estoy inmerso en el desarrollo tanto del frontend como del backend. Desde diseñar interfaces de usuario cautivadoras hasta trabajar en la lógica empresarial detrás de las aplicaciones, estoy emocionado por cada línea de código que agrego a mi caja de herramientas.
 
+## Gracias
+Siéntete libre de explorar, clonar, bifurcar o simplemente echar un vistazo a lo que he estado construyendo. ¡Y no dudes en compartir tus ideas o sugerencias!😎😃
 
-## Experiencia:
-<br>
-
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
-
-<br>
 
 
 
