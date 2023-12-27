@@ -17,7 +17,7 @@ Actualmente, me encuentro inmerso en el apasionante mundo de la tecnología grac
 
 Como desarrollador Full Stack, estoy inmerso en el desarrollo tanto del frontend como del backend. Desde diseñar interfaces de usuario cautivadoras hasta trabajar en la lógica empresarial detrás de las aplicaciones, estoy emocionado por cada línea de código que agrego a mi caja de herramientas, y mi objetivo es convertirme Full Stack en 6 meses
 
-### 🛠️ Idiomas y herramientas:
+### 🛠️ Experiencia en:
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -26,10 +26,10 @@ Como desarrollador Full Stack, estoy inmerso en el desarrollo tanto del frontend
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <h3 align="center">Me encanta ampliar mis conocimientos.</h3>
+ 
 </p>
 
-## Bienvenidos 
+## Bienvenido a mi repositorio
 Siéntete libre de explorar, clonar, bifurcar o simplemente echar un vistazo a lo que he estado construyendo. ¡Y no dudes en compartir tus ideas o sugerencias!😎😃
 
 
