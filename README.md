@@ -30,7 +30,7 @@ Como desarrollador Full Stack, estoy inmerso en el desarrollo tanto del frontend
 </p>
 
 ## Bienvenido a mi repositorio
-Siéntete libre de explorar, clonar, bifurcar o simplemente echar un vistazo a lo que he estado construyendo. ¡Y no dudes en compartir tus ideas o sugerencias!😎😃
+Siéntete libre de explorar, clonar, bifurcar o simplemente echar un vistazo a lo que he estado construyendo. ¡Y no dudes en compartir tus ideas o sugerencias!😎😃.
 
 
 
