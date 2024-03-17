@@ -13,7 +13,7 @@ Soy Johan, un desarrolador Full Stack con la pasión de un novato y el deseo con
 
 Actualmente, me encuentro inmerso en el apasionante mundo de la tecnología gracias a Platzi. Este viaje de aprendizaje no solo me ha proporcionado conocimientos sólidos en desarrollo web, sino que también ha desencadenado una fascinación por explorar nuevas tecnologías y metodologías.
 
-#### 🚀 Full Stack en Formación
+#### 🚀 Full Stack en Formación.
 
 Como desarrollador Full Stack, estoy inmerso en el desarrollo tanto del frontend como del backend. Desde diseñar interfaces de usuario cautivadoras hasta trabajar en la lógica empresarial detrás de las aplicaciones, estoy emocionado por cada línea de código que agrego a mi caja de herramientas, y mi objetivo es convertirme Full Stack en 6 meses
 
