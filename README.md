@@ -18,16 +18,30 @@ Actualmente, me encuentro inmerso en el apasionante mundo de la tecnología grac
 Como desarrollador Full Stack, estoy inmerso en el desarrollo tanto del frontend como del backend. Desde diseñar interfaces de usuario cautivadoras hasta trabajar en la lógica empresarial detrás de las aplicaciones, estoy emocionado por cada línea de código que agrego a mi caja de herramientas, y mi objetivo es convertirme Full Stack en 6 meses
 
 ### 🛠️ Experiencia en:
+<div align="center">
+  <a href="https://skillicons.dev/icons?i=html,css,js,git,docker,nodejs,vercel,express,vscode&theme=light&perline=13">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,docker,nodejs,vercel,express,vscode&theme=light&perline=13" alt="My Skills">
+  </a>
+</div>
 
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
- 
+##  Mis Estadísticas:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=j9han1017&theme=dark&show_icons=true" alt="GitHub Stats"/>
 </p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=j9han1017&theme=dark&hide_border=FALSO&mode=weekly" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMR231&layout=compact&theme=vision-friendly-dark" alt="Top Lenguajes"/>
+  </a>
+</p>
+
 
 ## Bienvenido a mi repositorio
 Siéntete libre de explorar, clonar, bifurcar o simplemente echar un vistazo a lo que he estado construyendo. ¡Y no dudes en compartir tus ideas o sugerencias!😎😃.
